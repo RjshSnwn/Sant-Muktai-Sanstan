@@ -1,0 +1,123 @@
+[
+    {"01":
+        {
+            "nav": {
+                "Home": "Home",
+                "Literature": "Literature",
+                "Tourism": "Tourism",
+                "Online Services": "Online Services",
+                "Media": "Media",
+                "Tenders": "Tenders",
+                "Contact": "Contact"
+            },
+            "About": {
+                "title": "About",
+                "para": "Saint Muktabai temple is region’s ancient temple with Goddess Muktabai being honoured at deity of region. There are two temples of this deity namely Mehun temple and new Muktabai Temple located in MuktaiNagar city.Muktai or Muktabai was a very popular saint of the Varkari tradition. She was born in Deshastha Brahmin family as the younger sister of the first Varkari saint, Dnyaneshwar. She wrote around 41 Abhang (devotional songs) all through her life. Muktabai’s most popular and thoughtful work is “Tati ughada dnaneshwara” which is a piece of conversation with saint Dnyaneshwar. Muktabai always believed that a saint is the one who is open to or can accept criticisms from others, that’s why, she said, “Sant jene vahave, jag bolane sosave”.",
+                "read-more": "Read more",
+                "news": "News",
+                "live-darshan": "Live Darshan",
+                "donation": "Donation",
+                "upcomming-festiwal": "upcomming-festiwal",
+                "latest-update": "latest-update"
+            },
+            "Gallery":{
+                "title":"PHOTO GALLERY"
+            },
+            "tourism":{
+                "title":"Sant Muktai Sanstan",
+                "description":"Saint Muktabai temple is region’s ancient temple with Goddess Muktabai being honoured at deity of region. There are two temples of this deity namely Mehun temple and new Muktabai Temple located in MuktaiNagar city.Muktai or Muktabai was a very popular saint of the Varkari tradition. She was born in Deshastha Brahmin family as the younger sister of the first Varkari saint, Dnyaneshwar. She wrote around 41 Abhang (devotional songs) all through her life. Muktabai’s most popular and thoughtful work is “Tati ughada dnaneshwara” which is a piece of conversation with saint Dnyaneshwar. Muktabai always believed that a saint is the one who is open to or can accept criticisms from others, that’s why, she said, “Sant jene vahave, jag bolane sosave”.",
+                "how-to-reach":"How To Reach :"
+
+            },
+            "tender":{
+                "title":"Tenders",
+                "list":"List of tenders",
+                "no":"No",
+                "tender-name":"Title",
+                "tender-number":"Tenders number",
+                "date":"Date of issue",
+                "report":"Report"
+            },
+            "Contact": {
+                "Drop-mail": "Drop mail",
+                "send": "Send",
+                "address": "Address",
+                "address-line": "Sant Muktai Sanstan, Bodwad road, Muktainagar Tal-Bodwad, Dist- Jalgaon(Maharashtra), PIN-425305"
+            },
+            "footer": {
+                "quick-links": "Quick Link",
+                "links": [
+                    "Information center",
+                    "Annual Report",
+                    "Appeal",
+                    "Resolution"
+                ],
+                "Follow-us": "Follow Us",
+                "Reach-on-us": "Reach on us",
+                "for online": "For online services please do contact on 02582266647",
+                "helpline": "Help Line Number",
+                "help-number": "8999561280/8623018610"
+            }
+        },
+
+        "02":{
+            "nav": {
+                "Home": "मुख्यपृष्ठ",
+                "Literature": "साहित्य",
+                "Tourism": "पर्यटन",
+                "Online Services": "ऑनलाइन सेवा",
+                "Media": "मीडिया",
+                "Tenders": "निविदा",
+                "Contact": "संपर्क"
+            },
+            "About": {
+                "title": "आमच्याबद्दल",
+                "para": "संत मुक्ताबाई मंदिर हे या प्रदेशातील प्राचीन मंदिर आहे ज्यामध्ये मुक्ताबाई देवीला या प्रदेशाची देवता म्हणून सन्मानित केले जाते. मुक्ताईनगर शहरात मेहुण मंदिर आणि नवीन मुक्ताबाई मंदिर अशी या देवतेची दोन मंदिरे आहेत. मुक्ताई किंवा मुक्ताबाई या वारकरी परंपरेतील अत्यंत लोकप्रिय संत होत्या. तिचा जन्म देशस्थ ब्राह्मण कुटुंबात आद्य वारकरी संत ज्ञानेश्वरांची धाकटी बहीण म्हणून झाला. तिने आयुष्यभर सुमारे ४१ अभंग (भक्तीगीते) लिहिले. मुक्ताबाईंचे सर्वात लोकप्रिय आणि विचारशील कार्य म्हणजे "ताती उगडा ज्ञानेश्वरा" हा संत ज्ञानेश्वरांशी झालेल्या संवादाचा एक भाग आहे. मुक्ताबाईंचा नेहमी असा विश्वास होता की संत तोच असतो जो इतरांच्या टीकेला मोकळा असतो किंवा स्वीकारू शकतो, म्हणूनच त्या म्हणाल्या, “संत जें वाहावे, जग बोलावे सोसावे”.",
+                "read-more": "पुढे वाचा",
+                "news": "बातम्या",
+                "live-darshan": "थेट दर्शन",
+                "donation": "दान",
+                "upcomming-festiwal": "upcomming-festiwal",
+                "latest-update": "आगामी-उत्सव"
+            },
+            "Gallery":{
+                "title":"फोटो गॅलरी"
+            },
+            "tourism":{
+                "title":"संत मुक्ताई संस्थान",
+                "description":"संत मुक्ताबाई मंदिर हे या प्रदेशातील प्राचीन मंदिर आहे ज्यामध्ये मुक्ताबाई देवीला या प्रदेशाची देवता म्हणून सन्मानित केले जाते. मुक्ताईनगर शहरात मेहुण मंदिर आणि नवीन मुक्ताबाई मंदिर अशी या देवतेची दोन मंदिरे आहेत. मुक्ताई किंवा मुक्ताबाई या वारकरी परंपरेतील अत्यंत लोकप्रिय संत होत्या. तिचा जन्म देशस्थ ब्राह्मण कुटुंबात आद्य वारकरी संत ज्ञानेश्वरांची धाकटी बहीण म्हणून झाला. तिने आयुष्यभर सुमारे ४१ अभंग (भक्तीगीते) लिहिले. मुक्ताबाईंचे सर्वात लोकप्रिय आणि विचारशील कार्य म्हणजे "ताती उगडा ज्ञानेश्वरा" हा संत ज्ञानेश्वरांशी झालेल्या संवादाचा एक भाग आहे. मुक्ताबाईंचा नेहमी असा विश्वास होता की संत तोच असतो जो इतरांच्या टीकेला मोकळा असतो किंवा स्वीकारू शकतो, म्हणूनच त्या म्हणाल्या, “संत जें वाहावे, जग बोलावे सोसावे”.",
+                "how-to-reach":"कसे पोहोचायचे:"
+
+            },
+            "tender":{
+                "title":"Tenders",
+                "list":"List of tenders",
+                "no":"No",
+                "tender-name":"Title",
+                "tender-number":"Tenders number",
+                "date":"Date of issue",
+                "report":"Report"
+            },
+            "Contact": {
+                "Drop-mail": "Drop mail",
+                "send": "Send",
+                "address": "Address",
+                "address-line": "Sant Muktai Sanstan, Bodwad road, Muktainagar Tal-Bodwad, Dist- Jalgaon(Maharashtra), PIN-425305"
+            },
+            "footer": {
+                "quick-links": "Quick Link",
+                "links": [
+                    "Information center",
+                    "Annual Report",
+                    "Appeal",
+                    "Resolution"
+                ],
+                "Follow-us": "Follow Us",
+                "Reach-on-us": "Reach on us",
+                "for online": "For online services please do contact on 02582266647",
+                "helpline": "Help Line Number",
+                "help-number": "8999561280/8623018610"
+            }
+        }
+    }
+]
