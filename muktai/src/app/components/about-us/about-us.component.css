@@ -7,7 +7,8 @@
     height: 50%;
     /* background-color: green; */
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 .about p {
@@ -31,7 +32,8 @@
     height: 300px;
     padding: 30px;
     color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: ;
 }
 
 .card1 h1 {
@@ -49,7 +51,8 @@
     height: 300px;
     padding: 30px;
     background-color: rgb(222, 217, 208);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 .card2 img {
@@ -74,7 +77,7 @@
     height: 300px;
     padding: 30px;
     background-color: rgb(222, 217, 208);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .card3 img {
