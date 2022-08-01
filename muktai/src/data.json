@@ -90,32 +90,32 @@
 
             },
             "tender":{
-                "title":"Tenders",
-                "list":"List of tenders",
-                "no":"No",
-                "tender-name":"Title",
-                "tender-number":"Tenders number",
-                "date":"Date of issue",
-                "report":"Report"
+                "title":"टेंडर्स",
+                "list":"टेंडर्सची यादी",
+                "no":"नंबर ",
+                "tender-name":"शीर्षक",
+                "tender-number":"टेंडर क्रमांक ",
+                "date":"जारी करण्याची तारीख",
+                "report":"अहवाल"
             },
             "Contact": {
-                "Drop-mail": "Drop mail",
-                "send": "Send",
-                "address": "Address",
-                "address-line": "Sant Muktai Sanstan, Bodwad road, Muktainagar Tal-Bodwad, Dist- Jalgaon(Maharashtra), PIN-425305"
+                "Drop-mail": "मेल टाका",
+                "send": "पाठवा",
+                "address": "पत्ता",
+                "address-line": "संत मुक्ताई संस्थान, बोदवड रस्ता, मुक्ताईनगर ता. बोदवड, जिल्हा- जळगाव(महाराष्ट्र), पिन-425305"
             },
             "footer": {
-                "quick-links": "Quick Link",
+                "quick-links": "द्रुत दुवा",
                 "links": [
-                    "Information center",
-                    "Annual Report",
-                    "Appeal",
-                    "Resolution"
+                    "माहिती केंद्र",
+                    "वार्षिक अहवाल",
+                    "आवाहन",
+                    "ठराव"
                 ],
-                "Follow-us": "Follow Us",
-                "Reach-on-us": "Reach on us",
-                "for online": "For online services please do contact on 02582266647",
-                "helpline": "Help Line Number",
+                "Follow-us": "फॉलो करा ",
+                "Reach-on-us": "आमच्यापर्यंत पोहोचा",
+                "for online": "ऑनलाइन सेवांसाठी कृपया 02582266647 वर संपर्क साधा",
+                "helpline": "हेल्प लाईन नंबर ",
                 "help-number": "8999561280/8623018610"
             }
         }
