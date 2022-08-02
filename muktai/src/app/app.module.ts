@@ -13,6 +13,7 @@ import { LiteratureComponent } from './components/literature/literature.componen
 import { OnlineServiceComponent } from './components/online-service/online-service.component';
 import { MediaComponent } from './components/media/media.component';
 import { TendersComponent } from './components/tenders/tenders.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { TendersComponent } from './components/tenders/tenders.component';
     LiteratureComponent,
     OnlineServiceComponent,
     MediaComponent,
-    TendersComponent
+    TendersComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
