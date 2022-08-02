@@ -9,6 +9,10 @@ import { AboutUsComponent } from './components/about-us/about-us.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { TourismComponent } from './components/tourism/tourism.component';
+import { LiteratureComponent } from './components/literature/literature.component';
+import { OnlineServiceComponent } from './components/online-service/online-service.component';
+import { MediaComponent } from './components/media/media.component';
+import { TendersComponent } from './components/tenders/tenders.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +22,11 @@ import { TourismComponent } from './components/tourism/tourism.component';
     AboutUsComponent,
     ContactComponent,
     FooterComponent,
-    TourismComponent
+    TourismComponent,
+    LiteratureComponent,
+    OnlineServiceComponent,
+    MediaComponent,
+    TendersComponent
   ],
   imports: [
     BrowserModule,
