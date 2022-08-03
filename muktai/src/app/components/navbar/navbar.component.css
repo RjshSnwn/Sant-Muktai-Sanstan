@@ -36,6 +36,7 @@
     margin-top: -50px;
     background-color: #fff;
     padding: 8px;
+    border-color: rgb(221, 82, 72);
     color: black;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -53,6 +54,7 @@
 }
 
 .header nav a {
+    padding: 20px;
     color: white;
     font-family: 'Times New Roman', Times, serif;
 }
